@@ -1,6 +1,6 @@
 # Fitness_Tracker
 
-A fitness app made with Flutter. 
+A fitness app made with Flutter. The MP4 file is a short walkthrough of the app. Screenshots are included too. 
 
 ## Getting Started
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
